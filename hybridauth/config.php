@@ -29,7 +29,7 @@ return array(
         ),
         "Facebook" => array(
             "enabled" => true,
-            "keys" => array("id" => "458459804712743", "secret" => "43ab0eb822b207fe0a68b45df2d3c71d"),
+            "keys" => array("id" => "", "secret" => ""),
             "trustForwarded" => false,
         ),
         "Twitter" => array(
@@ -44,7 +44,7 @@ return array(
         ),
         "LinkedIn" => array(
             "enabled" => true,
-            "keys" => array("id" => "81opa4yl3xr5xw", "secret" => "Fk0LBxcSvCzrPx7D", "scope" => ["r_liteprofile", "r_emailaddress", "w_member_social"]),
+            "keys" => array("id" => "", "secret" => "", "scope" => ["r_liteprofile", "r_emailaddress", "w_member_social"]),
             "fields" => array(),
         ),
         "Foursquare" => array(
